@@ -6,4 +6,4 @@ Hello, welcome to the repository that uses Python for mapping and other projects
 
 ![OBL](OvertureMapsBuildings.png)
 
-Tutorial Source: [https://github.com/gena/earthengine-api](https://developmentseed.org/lonboard/latest/examples/overture-maps/)
+Tutorial Source: [Overture Maps Buildings](https://developmentseed.org/lonboard/latest/examples/overture-maps/)
